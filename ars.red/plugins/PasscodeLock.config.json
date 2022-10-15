@@ -1,0 +1,19 @@
+{
+    "hasShownAttention": true,
+    "currentVersionInfo": {
+        "version": "1.3.4",
+        "hasShownChangelog": true
+    },
+    "locked": false,
+    "settings": {
+        "codeType": "4-digit",
+        "hash": "e1c81532f1143b930d2c385ff0da15c65191d4b7",
+        "salt": "1751447afcdbd64b7bac3595cbe49261b8122a33414fb187a9cd3182560ca6e6",
+        "iterations": 4000,
+        "autolock": 300,
+        "keybind": "control+l",
+        "highlightButtons": false,
+        "lockOnStartup": true,
+        "hideNotifications": false
+    }
+}

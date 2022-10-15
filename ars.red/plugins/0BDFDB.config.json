@@ -1,0 +1,23 @@
+{
+	"all": {
+		"changeLogs": {
+			"BDFDB": "2.6.6",
+			"CreationDate": "1.4.7",
+			"PinDMs": "1.9.4",
+			"PluginRepo": "2.3.7",
+			"ServerDetails": "1.1.2",
+			"SpotifyControls": "1.2.7",
+			"ThemeRepo": "2.3.9"
+		},
+		"choices": {
+			"toastPosition": "right"
+		},
+		"general": {
+			"shareData": true,
+			"showToasts": true,
+			"showSupportBadges": false,
+			"useChromium": false
+		},
+		"hashes": {}
+	}
+}
